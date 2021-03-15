@@ -116,7 +116,7 @@
                (:file "reduce-tracking-mode")
                (:file "os-package-manager-mode")
                (:file "visual-mode")
-               (:file "watch-mode")
+               (:file "action-mode")
                ;; Web-mode commands
                (:file "bookmarklets")
                (:file "input-edit")
